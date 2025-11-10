@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emilj\\source\\repos\\Task1_compMethod\\",
+  "WorkspaceRootPath": "C:\\Users\\m018410o\\Documents\\GitHub\\comp-Methods\\Task 1\\Task1_compMethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84DB1E83-A82D-4105-A228-ACC4156E96E0}|Task1_compMethod\\Task1_compMethod.vcxproj|C:\\Users\\emilj\\source\\repos\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{84DB1E83-A82D-4105-A228-ACC4156E96E0}|Task1_compMethod\\Task1_compMethod.vcxproj|C:\\Users\\m018410o\\Documents\\GitHub\\comp-Methods\\Task 1\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{84DB1E83-A82D-4105-A228-ACC4156E96E0}|Task1_compMethod\\Task1_compMethod.vcxproj|solutionrelative:Task1_compMethod\\Task1_compMethod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task1_compMethod.cpp",
-              "DocumentMoniker": "C:\\Users\\emilj\\source\\repos\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp",
+              "DocumentMoniker": "C:\\Users\\m018410o\\Documents\\GitHub\\comp-Methods\\Task 1\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp",
               "RelativeDocumentMoniker": "Task1_compMethod\\Task1_compMethod.cpp",
-              "ToolTip": "C:\\Users\\emilj\\source\\repos\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp",
+              "ToolTip": "C:\\Users\\m018410o\\Documents\\GitHub\\comp-Methods\\Task 1\\Task1_compMethod\\Task1_compMethod\\Task1_compMethod.cpp",
               "RelativeToolTip": "Task1_compMethod\\Task1_compMethod.cpp",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-04T21:16:55.65Z",
               "EditorCaption": ""
