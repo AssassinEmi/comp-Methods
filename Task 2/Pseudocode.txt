@@ -1,0 +1,23 @@
+sipmlified version of the code
+
+//the array can change as many time as we want, in this case it will be the values we used for the assessment but this can be re-used
+unsorted array[] = { 10, 15, 12, 12, 25, 16, 20, 14, 28, 17 };
+//we get the size to see how many times we need to do this 
+get array size= sizeof(array) / first number of the array;
+//we create a for loop to sort every part of the algorithm
+for j = 0 ;j < size - 1; add 1 to j
+	for i =0; i < size -j - 1; add 1 to i
+		
+		if array[i] > array[i+1]
+			get temp = array[i]
+			array[i] = array[i+1]
+			array[i+1] = temp
+		Endif
+	End for
+End for
+print "Sorted array: "
+
+for i=0;i<size;add 1 to i(i++)
+	print array[i]
+	
+end for
